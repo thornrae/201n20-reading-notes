@@ -1,4 +1,4 @@
-#### Read:04 
+Read:04 
 #### JS CH#: Functions (Pg. 86-99)
 
 *Functions* let you group a series of statements together to perform a specific task.  Can you reuse a function? YES, and you should to follow DRY principle 
