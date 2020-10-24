@@ -12,20 +12,20 @@ Form controls: several types of these which all you to collect info from visitor
 Flow of forms: after submitting form, the name of each form control is sent to the server along with the value that the user enters.  Server processes the info using PHP, C#, VB.net, or Java (info could also be stored in a database). Server creates new page to send back to browser based on infomration received.
 
 FORM STRUCTURE
-<form> has two attributes: action (url), method
-<input> (self closing) attributes: 
+`<form>` has two attributes: action (url), method
+`<input>` (self closing) attributes: 
   - type = text, password; name, size, maxlength
   - type = radio w/ attributes: name, value
   - type = checkbox w/ attributes: name, value, checked
   - type = submit w/ attributes name, value. Value controls text on button. if using image for submit button use input w/ attribute type = image with src, width and height attributes
-<textarea> - use for comments.  attributes: name, cols, rows
-<select> <option> - option w attributes: value 
+`<textarea>` - use for comments.  attributes: name, cols, rows
+`<select>` `<option>` - option w attributes: value 
 
 When using a button element you can use a hidden feature attribute 
 
-<label> giving context to field forms. 
+`<label>` giving context to field forms. 
 
-To group elements on the form: <fieldset> following by <legend> tags 
+To group elements on the form: `<fieldset>` following by `<legend>` tags 
 
 From validation attribute: required = required
 
@@ -61,10 +61,11 @@ There are 6 types of events that can occur to trigger a function in your javascr
 1. form events 
 1. mutations events aka mutation observers (when something changes in the DOM structure)
 
-Event handling is what triggers JS code and is made up of 3 steps: 
+Event handling is what triggers JS code and is made up of 3 steps:
+
 1. selecting element node 
 1. indicate what event on what node will trigger response "binding to a note"
-1. stat the code you want to run when the event occurs 
+1. stat the code you want to run when the event occurs
 
 Two ways to bind: traditional DOM event handlers and event listeners.  The latter is more dynamic because you can use it to trigger more than one function per event
 
