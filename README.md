@@ -11,4 +11,4 @@ This site will store all 201 reading notes for 201n20
 * Class 05: HTML Images, Color, Text [Reading 05](class-05.md)
 * Class 06: JS Object Literals; The DOM [Reading 06](class-06.md)
 * Class 07: HTML Tables; JS Constructor Functions [Reading 07](class-07.md)
-* Class 08: More CSS Layout: [Reading 08]
+* Class 08: More CSS Layout: [Reading 08](class-08.md)
