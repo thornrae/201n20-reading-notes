@@ -14,4 +14,5 @@ This site will store all 201 reading notes for 201n20
 * Class 08: More CSS Layout: [Reading 08](class-08.md)
 * Class 09: Forms & Events: [Reading 09](class-09.md)
 * Class 10: Debugging: [Reading 10](class-10.md)
+* Class 11: Assorted Topics: [Reading 11](class-11.md)
 
