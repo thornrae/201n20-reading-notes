@@ -16,5 +16,7 @@ This site will store all 201 reading notes for 201n20
 * Class 10: Debugging: [Reading 10](class-10.md)
 * Class 11: Assorted Topics: [Reading 11](class-11.md)
 * Class 12: Docs for the HTML <canvas> Element & Chart.js: [Reading 12](class-12.md)
+* Class 13: Local Storage: (Reading 13)[class-13.md)
+  
   
 
