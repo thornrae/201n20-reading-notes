@@ -18,6 +18,7 @@ This site will store all 201 reading notes for 201n20
 * Class 12: Docs for the HTML <canvas> Element & Chart.js: [Reading 12](class-12.md)
 * Class 13: Local Storage: [Reading 13](class-13.md)
 * Class 14a: CSS Transformations and Transitions: [Reading 14](class-14.md)
+* Class 14b: What Google Learned - Teams: [Reading 14b](class-14b.md)
  
   
   
