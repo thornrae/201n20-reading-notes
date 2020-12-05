@@ -21,6 +21,3 @@ This site will store all 201 reading notes for 201n20
 * Class 14b: What Google Learned - Teams: [Reading 14b](class-14b.md)
 
 ## Code 301 - Intermediate Software Development
-  
-  
-
