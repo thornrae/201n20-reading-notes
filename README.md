@@ -1,9 +1,9 @@
-# 201n20-reading-notes
-201n20 Reading Notes
+# Reading Notes
+
+## Code 201 - Foundations of Software Development
 
 This site will store all 201 reading notes for 201n20
 
-##Reading Assignments
 * Class 01: Introductory HTML & Javascript [Reading 01](class-01.md)
 * Class 02: HTML Text, CSS Intro, Basic Javascript Instructions [Reading 02](class-02.md)
 * Class 03: HTML Lists, CSS Boxes, JS Control Flow [Reading 03](class-03.md)
@@ -19,7 +19,8 @@ This site will store all 201 reading notes for 201n20
 * Class 13: Local Storage: [Reading 13](class-13.md)
 * Class 14a: CSS Transformations and Transitions: [Reading 14](class-14.md)
 * Class 14b: What Google Learned - Teams: [Reading 14b](class-14b.md)
- 
+
+## Code 301 - Intermediate Software Development
   
   
 
