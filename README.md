@@ -22,3 +22,4 @@ This site will store all 201 reading notes for 201n20
 
 ## Code 301 - Intermediate Software Development
 * Class 01: SMACSS and Responsive Web Design [Reading 01](301-class-01.md)
+* Class 02: Read: 02 - jQuery, Events, and The DOM [Reading 02](301-class-02.md)
