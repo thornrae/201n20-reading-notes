@@ -25,3 +25,4 @@ This site will store all 201 reading notes for 201n20
 * Class 02: Read: 02 - jQuery, Events, and The DOM [Reading 02](301-class-02.md)
 * Class 03: Read: 03 - Flexbox and Mustache [Reading 03](301-class-03.md)
 * Class 04: Read 04 - Responsive Web Design & Regular Expressions [Reading 04](301-class-04.md)
+* Class 05: Read 05 - Heroku Deployment [Reading 04](301-class-05.md)
