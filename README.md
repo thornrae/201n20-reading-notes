@@ -27,3 +27,4 @@ This site will store all 201 reading notes for 201n20
 * Class 04: Read 04 - Responsive Web Design & Regular Expressions [Reading 04](301-class-04.md)
 * Class 05: Read 05 - Heroku Deployment [Reading 05](301-class-05.md)
 * Class 06: Read 06 - Node.js [Reading 06](301-class-06.md) 
+* Class 07: Read 07 - Node.js & REST [Reading 07](301-class-07.md)
