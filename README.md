@@ -29,3 +29,4 @@ This site will store all 201 reading notes for 201n20
 * Class 06: Read 06 - Node.js [Reading 06](301-class-06.md) 
 * Class 07: Read 07 - Node.js & REST [Reading 07](301-class-07.md)
 * Class 08: Read 08 - SQL [Reading 08](301-class-08.md)
+* Class 09: Read 09 - Functional Programming [Reading 09](301-class-09.md)
