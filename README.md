@@ -31,3 +31,5 @@ This site will store all 201 reading notes for 201n20
 * Class 08: Read 08 - SQL [Reading 08](301-class-08.md)
 * Class 09: Read 09 - Functional Programming [Reading 09](301-class-09.md)
 * Class 10: Read 10 - Call Stack and Debugging [Reading 10](301-class-10.md)
+* Class 11: Read 11 - EJS [Reading 11](301-class-11.md)
+* Class 12: Read 12 - Partial EJS [Reading 12](301-class-12.md)
