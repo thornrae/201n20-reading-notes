@@ -33,3 +33,4 @@ This site will store all 201 reading notes for 201n20
 * Class 10: Read 10 - Call Stack and Debugging [Reading 10](301-class-10.md)
 * Class 11: Read 11 - EJS [Reading 11](301-class-11.md)
 * Class 12: Read 12 - Partial EJS [Reading 12](301-class-12.md)
+* Class 13: Read 13 - Update / Delete [Reading 13](301-class-13.md)
