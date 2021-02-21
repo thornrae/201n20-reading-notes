@@ -37,3 +37,5 @@ This site will store all 201 reading notes for 201n20
 * Class 14: Read 14 - Database Normalization[Reading 14](301-class-14.md)
 
 ## Code 401 - Advanced Software Development
+* Class 01: Read 01 - Node Ecosystem, TDD, CI/CD[Reading 01](401-class-01.md)
+
