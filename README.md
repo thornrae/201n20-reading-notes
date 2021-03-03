@@ -40,4 +40,5 @@ This site will store all 201 reading notes for 201n20
 * Class 01: Read 01 - Node Ecosystem, TDD, CI/CD [Reading 01](401-class-01.md)
 * Class 02: Read 02 - Express [Reading 02](401-class-02.md)
 * Class 03: Extress REST API [Reading 03](401-class-03.md)
+* Class 04: Data Modeling [Reading 04](401-class-04.md)
 
