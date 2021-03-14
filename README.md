@@ -43,5 +43,7 @@ This site will store all 201 reading notes for 201n20
 * Class 04: Data Modeling [Reading 04](401-class-04.md)
 * Class 05: Linked Lists [Reading 05](401-class-05.md)
 * Class 06: Authentication [Reading 06](401-class-06.md)
+* Class 07: Bearer Authorization [Reading 07](401-class-07.md)
+
 
 
