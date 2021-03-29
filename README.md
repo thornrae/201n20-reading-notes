@@ -45,3 +45,4 @@ This site will store all 201 reading notes for 201n20
 * Class 06: Authentication [Reading 06](401-class-06.md)
 * Class 07: Bearer Authorization [Reading 07](401-class-07.md)
 * Class 08: Access Control [Reading 08](401-class-08.md)
+* Class 11: Event Drive Applications [Reading 11](401-class-11.md)
