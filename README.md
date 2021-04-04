@@ -47,4 +47,4 @@ This site will store all 201 reading notes for 201n20
 * Class 08: Access Control [Reading 08](401-class-08.md)
 * Class 11: Event Drive Applications [Reading 11](401-class-11.md)
 * Class 12: Socket.io [Reading 12](401-class-12.md)
-
+* Class 13: Message Queues [Reading 13](401-class-13.md)
