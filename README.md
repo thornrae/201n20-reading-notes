@@ -50,3 +50,6 @@ This site will store all 201 reading notes for 201n20
 * Class 13: Message Queues [Reading 13](401-class-13.md)
 * Class 14: Event-Driven Architecture [Reading 14](401-class-14.md)
 * Class 15: Trees [Reading](401-class-trees.md)
+* Class 16: AWS Cloud Services[Reading](401-class-16.md)
+
+
